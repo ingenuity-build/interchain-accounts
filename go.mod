@@ -21,6 +21,6 @@ require (
 
 require golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
 
-replace github.com/cosmos/cosmos-sdk => github.com/ingenuity-build/cosmos-sdk v0.45.4-ls
+replace github.com/cosmos/cosmos-sdk => github.com/ingenuity-build/cosmos-sdk v0.45.4-ls.1
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
