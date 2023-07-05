@@ -15,12 +15,10 @@ require (
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tendermint/tendermint v0.34.15
 	github.com/tendermint/tm-db v0.6.6
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.53.0
 )
-
-require golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
 
 replace github.com/cosmos/cosmos-sdk => github.com/ingenuity-build/cosmos-sdk v0.44.5-ls1
